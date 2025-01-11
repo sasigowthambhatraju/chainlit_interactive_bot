@@ -1,0 +1,4 @@
+openai==0.28
+pandas==2.2.3
+pyyaml==6.0.2
+chainlit==2.0.2
