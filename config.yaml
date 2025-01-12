@@ -1,5 +1,5 @@
 openai:
-  api_key: "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"
+  api_key: "Your_OpenAI_API_Key"
   model: "gpt-3.5-turbo"
   temperature: 0.5
   max_tokens: 1500
