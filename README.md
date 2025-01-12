@@ -11,7 +11,7 @@ Then the next steps involves the developer to do the following
 1. Create a new virtual environment for this specific project then install all the required libraries from requirements.txt in the directory you are currently working on
 2. Get your own OpenAI API Key from https://platform.openai.com/api-keys and paste that inside api_key variable present inside the config.yaml file
 3. Now the fun part begins, to start the application in your local use the following command in the Terminal -> chainlit run app.py
-4. As the program starts exicuting you'll see localhost url click on that or chainlit will directly take you to that url in the default browser of your choice, now you can chit chat with the bot or upload a csv and asks questions related to that, whcih is nothing but handling data analytics queries/ tasks.
+4. As the program starts exicuting you'll see localhost url click on that or chainlit will directly take you to that url in the default browser of your choice, now you can chit chat with the bot related to any topic or upload a csv and asks questions related to the uploaded file, which is nothing but handling data analytics queries/ tasks.
 ![Screenshot 2025-01-12 013807](https://github.com/user-attachments/assets/9aebb910-4ea2-49b1-ae3a-23c5466d822f)
 
 Note:
