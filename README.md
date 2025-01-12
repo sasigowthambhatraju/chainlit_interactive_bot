@@ -1,3 +1,5 @@
+Chainlit Interactive Bot
+
 Hello There👋🏻. Welcome to Chainlit Interactive Bot application repo.
 
 What is Chainlit Interactive Bot?
