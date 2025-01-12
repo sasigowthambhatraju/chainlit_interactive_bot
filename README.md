@@ -18,4 +18,5 @@ Note:
 1. Do not forget to get your own OpenAI API Key from your OpenAI account and paste that inside config.yaml file
 2. Do not start the application without installing all the libraries from requirements.txt in your venv
 3. If there are errors try to check the path or directory
-4. Use Python 3.8+ version for this project.
+4. Use Python 3.8+ version for this project
+5. The Chainlit will not respond for the regular chat when you don't upload a csv file for the first time i.e. on the start of the application first developer/ uder needs to upload a csv file then you he/ she can ask data related questions in accordance with the uploaded csv file or can ask general questions like "what is the wounders of the worlds" or something else.
